@@ -1,0 +1,20 @@
+1) Deletion
+    A) 목록 삭제 (Listwise)
+    B) 단일값 삭제 (Pairwise)
+    
+    
+2) Imputation
+    A) Mean/Median Imputation
+    B) Most Frequent Value / Zero / Constant Imputation
+    C) K-NN Imputation
+    D) MICE(Multivariate Imputation by Chained Equation) Imputation
+    E) Deep Learning을 이용한 Imputation / Datawig
+    etc)
+        Stochastic regression imputation
+        Extrapolation and Interpolation
+        Hot-Deck imputation
+    
+3) No Touch
+    xgboost에 경우 결측값을 고려하여 학습
+    LightGBM의 use_missing=false도 있음
+    sklearn의 LinearRegression은 모델에 데이터셋을 넣기전에 결측데이터를 처리할 필요가 있다
