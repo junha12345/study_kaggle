@@ -12,4 +12,4 @@
 
 6. Apply ML Model
 
-7. Find improve things (XGBoost parameter, delete Outlier data, etc)
+7. Find improve things (XGBoost parameter, delete Outlier data, change delete mv method, etc..)
