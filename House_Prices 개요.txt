@@ -22,5 +22,5 @@
   -위 라이브러리 parameter를 수정하여 최적의 모델을 구현
   
 7. Find improve things (XGBoost parameter, delete Outlier data, change delete mv method, etc..)
-
+  - parameter 수정 -- https://zzinnam.tistory.com/entry/XGboost-%EC%A3%BC%EC%9A%94-%ED%95%98%EC%9D%B4%ED%8D%BC%ED%8C%8C%EB%9D%BC%EB%AF%B8%ED%84%B0-with-%ED%8C%8C%EC%9D%B4%EC%8D%AC
 8. submit
