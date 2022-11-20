@@ -1,0 +1,26 @@
+데이터 전처리, 학습, 결과분석 과정
+
+1. Gathering Data
+  - 캐글에서 데이터셋 다운로드, columns, target 확인
+
+2. Data analysis
+  - 데이터셋에서 변수간의 correlation확인, data normalization(Feature scaling()
+
+3. Handling Missing Data
+  - 결측데이터 삭제방법 모색
+
+4. Feature Engineering - 데이터 마이닝 기법을 통해 피처로 만들어서 머신 러닝 알고리즘의 성능을 향상시키는 일련의 과정
+  - 수치형 데이터에 경우 결측데이터, 이상데이터, binning과 같은 처리를 함
+  - 라벨형 데이터에 경우 one-hot encoding(get dummies)로 수치형데이터로 처리를함
+  - 새로운 feature를 추가, 범주형,수치형 데이터 조정
+
+5. Converting the categorical to numerical
+  - 4번에서 설명한 작업을 진행(사실 feature engineering에 해당하는 작업
+  
+6. Apply ML Model
+  -XGBoost라이브러리를 이용하여 학습을 진행
+  -위 라이브러리 parameter를 수정하여 최적의 모델을 구현
+  
+7. Find improve things (XGBoost parameter, delete Outlier data, change delete mv method, etc..)
+
+8. submit
