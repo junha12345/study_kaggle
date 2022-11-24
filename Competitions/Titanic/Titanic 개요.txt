@@ -1,0 +1,13 @@
+1. Import necesaary libraries and dataset
+
+2. data pre-processing and anomaly detection
+
+3. analytic data set creation
+
+4. feature selection and EDA
+
+5. creating ML models
+
+6. comparing ML models
+
+7. submit results
