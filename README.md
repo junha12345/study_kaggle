@@ -16,7 +16,7 @@ Space to store various concepts and skills necessary for machine learning
 
 ## keep in mind
 
-  1. when the results come out the way i want in to
+  1. when the results doesn't come out the way i want in to
 
     spend more time in feature enginneering
     
