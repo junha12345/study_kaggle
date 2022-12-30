@@ -10,3 +10,18 @@ Space to store various concepts and skills necessary for machine learning
     hyperparameter tuning방법, 활용
   
     validation을 높일수 있는 방법 모색
+
+
+
+
+## keep in mind
+
+  1. when the results come out the way i want in to
+
+    spend more time in feature enginneering
+    
+    add/remove data.. change something different
+    
+    try many things (do not think 'it gonna be bad')
+    
+    check overfitting issue
