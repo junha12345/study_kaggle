@@ -24,4 +24,4 @@ Space to store various concepts and skills necessary for machine learning
     
     try many things (do not think 'it gonna be bad')
     
-    check overfitting issue
+    check overfitting & data unbalancing
