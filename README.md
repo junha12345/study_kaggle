@@ -30,4 +30,6 @@ Space to store various concepts and skills necessary for machine learning
 
 
 ## part of thinking apart
-    1. · Computer Vision: For image classification using deep learning, a rule of thumb is 1,000 images per class, where this number can go down significantly if one uses pre-trained models
+    1. · Computer Vision: For image classification using deep learning,
+    a rule of thumb is 1,000 images per class, 
+    where this number can go down significantly if one uses pre-trained models
