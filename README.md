@@ -25,6 +25,14 @@ Space to store various concepts and skills necessary for machine learning
     try many things (do not think 'it gonna be bad')
     
     check overfitting & data unbalancing
+    
+  2. every part of ML, need to mind little thing
+  
+    in image segmentation, Problems may arise during 
+    
+    interpolation when resizing label data.
+    
+    very implementation details differ from library to library
 
 
 
