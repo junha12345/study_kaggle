@@ -2,7 +2,9 @@
 
 2. change building detection (image segmentation,, if i need, make labeling dataset)
 
-3. plus, video image classification ()
+3. trac image segmentation (tips in https://neptune.ai/blog/image-segmentation-tips-and-tricks-from-kaggle-competitions)
+
+4. plus, video image classification ()
 
 
 
